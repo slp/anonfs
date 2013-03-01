@@ -1,0 +1,6 @@
+anonfs
+======
+
+anonfs is a GNU Hurd tmpfs derived translator, which uses anonymous
+memory as backing store, instead of relying on the default pager.
+
